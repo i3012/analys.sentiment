@@ -15,6 +15,8 @@ h3{
 h4{
     letter-spacing: 1.5px;
     font-size: 33px;
+    border: 1px solid rgb(255, 255, 255); 
+    padding-left: 62px;"
 }
 
 .content{
@@ -33,7 +35,7 @@ input{
 
 input[type="text"]{
     height: 70px;
-    width: 700px;
+    width: 500px;
     border-radius: 10px;
     border-color: #00BFA6;
     font-family: Montserrat;
